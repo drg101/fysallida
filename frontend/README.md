@@ -3,4 +3,5 @@ This is the frontend of the project. Probably wont need to do anything here unti
 
 # Usage
 `npm i`
+
 `npm run dev`
