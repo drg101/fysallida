@@ -5,8 +5,12 @@ This is where all the references to data are. We will also put our finished data
  - `2005_2009_curated.csv` curated census data for the 2005->2009 time range 
  - `2015_2019_curated.csv` curated census data for the 2015->2019 time range 
  - `20{0,1}5_20{0,1}9_config.ts` config.ts file used for the [Sustain Dataset Curator](https://github.com/Project-Sustain/sustain-dataset-curator) to turn the source files into the curated version 
+ - `Get_Crash_Amounts.ipynb` jupyter notebook for curating the crash amounts from the zillow data
+ - `crash_amounts.csv` curated crash data
 
 
+# What is a GISJOIN?
+GISJOIN IS VERY GOOD WAY TO GIVE A COUNTY AN ID SO WE USE IT
 
 # Sources
 
