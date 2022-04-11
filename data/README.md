@@ -1,6 +1,15 @@
 # Data
 This is where all the references to data are. We will also put our finished data in here maybe.
 
+# Whats in here?
+ - `2005_2009_curated.csv` curated census data for the 2005->2009 time range 
+ - `2015_2019_curated.csv` curated census data for the 2015->2019 time range 
+ - `20{0,1}5_20{0,1}9_config.ts` config.ts file used for the [Sustain Dataset Curator](https://github.com/Project-Sustain/sustain-dataset-curator) to turn the source files into the curated version 
+
+
+
+# Sources
+
 ## National Risk Index
 This will mostly just be used for visualization at the end. It provides nice indexes that we can put next to ours.
 
