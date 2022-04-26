@@ -51,3 +51,7 @@ Each of these datasets include:
 [Gini Index Data](https://drive.google.com/file/d/1In_Gx28SxajGLFecu0joPWu16sAtrHe9/view?usp=sharing)
 
 [All Other Data](https://drive.google.com/file/d/11W8vCYUbyTKDyCoiXSIP7DeSu5p9QNH7/view?usp=sharing) -- [Metadata for all other data (Some labels are the same so this is necessary)](https://drive.google.com/file/d/1HTYx3fKCjlwqiydiD8VDdQg43uWEs5wr/view?usp=sharing)
+
+## Quarterly Census of Employment and Wages
+[QCEW Data Files](https://www.bls.gov/cew/downloadable-data-files.htm)
+[QCEW Labels](https://www.bls.gov/cew/about-data/downloadable-file-layouts/quarterly/naics-based-quarterly-layout.htm)

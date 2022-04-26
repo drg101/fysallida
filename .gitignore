@@ -3,3 +3,5 @@
 
 **/spark/project/*
 **/spark/target/*
+spark/out.txt
+spark/run.sh
