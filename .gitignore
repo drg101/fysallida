@@ -5,3 +5,4 @@
 **/spark/target/*
 spark/out.txt
 spark/run.sh
+**/metastore_db/*
