@@ -6,3 +6,9 @@
 spark/out.txt
 spark/run.sh
 **/metastore_db/*
+
+**/now.csv
+**/old.csv
+spark/now.csv
+spark/old.csv
+spark/ml_data.zip

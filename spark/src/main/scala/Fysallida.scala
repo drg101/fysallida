@@ -137,7 +137,9 @@ object Fysallida {
 		//now.show()
 
 		// write to csv
-		old.write.format("csv").save("/proj/out/old")
-		now.write.format("csv").save("/proj/out/now")
+
+		old.write.option("header",true).csv("/proj/out/old")
+
+		now.write.option("header",true).csv("/proj/out/now")
 	}
 }
