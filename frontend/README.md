@@ -1,7 +1,4 @@
 # Frontend
-This is the frontend of the project. Probably wont need to do anything here until we have results ready.
+We use [The Sustain Project's Monocle service](https://urban-sustain.org/services/monocle.php) for our frontend.
 
-# Usage
-`npm i`
-
-`npm run dev`
+Simply import `data.json` from this folder into that service. 
